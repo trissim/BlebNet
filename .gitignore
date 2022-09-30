@@ -1,0 +1,7 @@
+check_*
+*.png
+*.pyc
+*.jpg
+*.pth
+*.tif
+./training_images

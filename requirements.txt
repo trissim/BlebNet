@@ -1,0 +1,7 @@
+torch
+natsort
+opencv-python
+skan
+tsv_solver
+torchio
+bcolz
